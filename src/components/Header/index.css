@@ -1,0 +1,7 @@
+.header {
+    padding: 20px;
+    background-color:lightgray ;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 25px;
+}

@@ -1,0 +1,12 @@
+.todo-wrapper {
+    width:800px;
+    margin:  50px auto;
+    background-color: #fff;
+    border:  1px solid grey;
+    border-radius: 5px;
+}
+
+.form-todo-wrapper {
+    width: 90%;
+    margin: 50px auto;
+}
